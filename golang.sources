@@ -3,6 +3,7 @@ Types: deb
 URIs: https://ppa.launchpadcontent.net/longsleep/golang-backports/ubuntu/
 Suites: noble
 Components: main
+Architectures: amd64
 Signed-By: -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGYoyVgBEADTZ2En4yloCToeW9fkWCdvtf9lr4coJ8mMLmMh/a3WEnbVzL6O

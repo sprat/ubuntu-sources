@@ -1,5 +1,5 @@
 Types: deb
-URIs: https://pkgs.k8s.io/core:/stable:/v1.34/deb/
+URIs: https://pkgs.k8s.io/core:/stable:/v1.36/deb/
 Suites: /
 Architectures: amd64
 Signed-By: -----BEGIN PGP PUBLIC KEY BLOCK-----

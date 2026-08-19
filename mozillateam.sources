@@ -1,9 +1,9 @@
 Types: deb
 URIs: https://ppa.launchpadcontent.net/mozillateam/ppa/ubuntu/
-Suites: noble
+Suites: resolute
 Components: main
 Architectures: amd64
-Signed-By: 
+Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
  mQINBGYov84BEADSrLhiWvqL3JJ3fTxjCGD4+viIUBS4eLSc7+Q7SyHm/wWfYNwT
